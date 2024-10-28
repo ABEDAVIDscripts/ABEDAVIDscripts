@@ -1,6 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abedavidscripts&label=Profile%20views&color=0e75b6&style=flat" alt="abedavidscripts" /> </p>
 
-- Hi 👋, I'm Abe David
+- Hi 👋, I'm David Abe
 
 - 👀 I’m a data analyst who is passionate about transforming raw data into actionable insights
 
