@@ -15,7 +15,7 @@
 
 ## Skills and Tools
 
-[MySQL](https://www.mysql.com/), [PostgreSQL](https://www.postgresql.org/), [SQL Server](https://www.microsoft.com/en-us/sql-server), [Python](), [Power BI](https://www.microsoft.com/en-us/power-platform/products/power-bi), [Excel](https://www.microsoft.com/en-us/microsoft-365/excel)
+`MySQL`, `PostgreSQL`, `Microsoft SQL Server`, `Python`, `Excel`
 
 
 <BR>
