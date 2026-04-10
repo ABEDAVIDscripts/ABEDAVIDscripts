@@ -1,20 +1,25 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abedavidscripts&label=Profile%20views&color=0e75b6&style=flat" alt="abedavidscripts" /> </p>
 
-Hi 👋, I'm David Abe, a Database Engineer & Analytics Engineer
-
+Hi 👋, I'm David Abe an Analytics Engineer & Cloud Data Engineer
 
 <br>
 
-I design and optimize relational database systems with a focus on performance, scalability, and analytics workloads. My work includes data modeling, SQL-based ETL development, query optimization, indexing strategies, table partitioning, and role-based access control in PostgreSQL.
+I design and build scalable data platforms that transform raw data into reliable, analytics-ready datasets for business intelligence and decision-making.
 
-I specialize in building analytics-ready datasets from normalized data while ensuring data quality, efficient query performance, and secure access patterns. I regularly use tools such as EXPLAIN ANALYZE, indexing, and schema design techniques to support high-volume analytical and reporting use cases.
+My work focuses on developing end-to-end data pipelines using modern data stack tools, combining cloud data warehousing, ELT workflows, and robust data modeling practices.
 
-I also have experience working with cloud-based data pipelines and analytics platforms, including AWS services such as S3, EC2, Lambda, and Redshift, to support scalable data ingestion and transformation workflows.
+I specialize in:
+- Building ELT pipelines (BigQuery, dbt, Airflow) from ingestion to analytics
+- Designing scalable data models (fact & dimension tables, star schema, data grain)
+- Implementing data quality validation and testing (dbt tests, constraints)
+- Optimizing performance using partitioning, clustering, and indexing strategies
+- Delivering analytics-ready data marts for BI tools like Power BI
 
-I am continuously developing my data storytelling and documentation skills to clearly communicate technical decisions and analytical results to both technical and non-technical stakeholders.
-
-I’m open to collaborating on database engineering, SQL optimization, analytics engineering, and data modeling projects.
-
+I’ve worked on production-style data systems, including:
+- Processing millions of transactional records into structured analytics models
+- Building cloud-based pipelines from API ingestion to warehouse transformation
+- Designing modular, maintainable dbt workflows for scalable data transformation
+- Implementing data validation, monitoring, and reproducible workflows
 
 <br>
 
@@ -24,19 +29,17 @@ Contact: 20.davidabe@gmail.com
 <br>
 
 ### Skills & Tools
-- SQL Development (PostgreSQL, MySQL, Microsoft SQL Server)
-- Relational Data Modeling and Normalization (3NF)
-- Query Optimization and Performance Tuning
-- Indexing Strategies and Table Partitioning
-- SQL-Based ETL Development
-- Analytics-Ready Data Modeling
-- Data Quality Validation and Integrity Checks
-- Analytics Views and Business Reporting
-- Database Security and Role-Based Access Control
-- AWS Data Pipeline Development
-- AWS S3, Redshift, Lambda, EC2
-- Python for Data Analysis and Data Processing
-- Microsoft Excel
+- Analytics Engineering (dbt, modular transformations)
+- Data Modeling (star schema, fact & dimension design)
+- SQL (PostgreSQL, BigQuery)
+- ELT Pipelines (BigQuery + dbt)
+- Data Warehousing (BigQuery, Redshift)
+- Apache Airflow (workflow orchestration)
+- Cloud Platforms (GCP, AWS – S3, Redshift, Lambda)
+- Query Optimization & Performance Tuning
+- Partitioning, Clustering & Indexing Strategies
+- Data Quality & Testing (dbt tests, validation)
+- Analytics Data Marts & BI (Power BI)
 
 
 <BR>
